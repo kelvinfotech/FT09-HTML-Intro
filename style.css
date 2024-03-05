@@ -1,0 +1,21 @@
+body{
+    background-color: aqua;
+}
+h1{
+    font-size: large;
+}
+h2{
+    font-family: 'Courier New', Courier, monospace;
+}
+h3{
+    font-weight: 300;
+}
+h4{
+    font-style: italic;
+}
+h5{
+    font-stretch: expanded;
+}
+h6{
+    font-variant-numeric: ordinal;
+}
